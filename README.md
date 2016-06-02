@@ -1,2 +1,3 @@
 # brand-new
-simple repository
+This is a simple repository. 
+Also my first edit and related commit. 
